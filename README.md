@@ -1,5 +1,5 @@
 # Neural-Computation
-This is my code for Neural Computation course project.
+This is my code for Neural Computation course project. Reports are included in each folder.
 
 ## Project 1. Deep Clustering
 ### Project description
